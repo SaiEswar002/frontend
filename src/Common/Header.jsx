@@ -71,7 +71,7 @@ const Header = () => {
             <>
               <li><Link to="/user-profile">User Profile</Link></li>
               <li><Link to="/book-appointment">Book Appointment</Link></li>
-              <li><Link to="/view-booking">Available Doctors</Link></li> {/* Added View Bookings link */}
+              <li><Link to="/view-booking">View Bookings</Link></li> {/* Added View Bookings link */}
               <li><Link to="/contact">Contact</Link></li>
 
               <li><button onClick={handleLogout} className="logout-button">Logout</button></li>

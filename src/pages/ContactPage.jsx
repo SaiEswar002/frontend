@@ -30,10 +30,10 @@ const ContactPage = () => {
         {/* Contact Information */}
         <div className="contact-info">
           <h2>Our Contact Details</h2>
-          <p><strong>Address:</strong> Vaddeswaram</p>
-          <p><strong>Phone:</strong> 108</p>
+          <p><strong>Address:</strong> 123 Healthcare Street, City, Country</p>
+          <p><strong>Phone:</strong> +1 234 567 890</p>
           <p><strong>Email:</strong> contact@hospitalmanagement.com</p>
-          <p><strong>Working Hours:</strong> Mon - Sat: 9:00 AM - 11:00 PM</p>
+          <p><strong>Working Hours:</strong> Mon - Sat: 9:00 AM - 6:00 PM</p>
         </div>
 
         {/* Contact Form */}
