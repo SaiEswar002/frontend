@@ -1,7 +1,7 @@
 import * as React from "react";
 // import Header from "./home/Header";
 // import Navbar from "./home/Navbar";
-import MainVisual from "./pages/home/MainVisual";
+import MainVisual from "./MainVisual";
 import InfoSection from "./pages/home/InfoSection";
 import AboutSection from "./pages/home/AboutSection";
 import ServicesSection from "./pages/home/ServicesSection";
