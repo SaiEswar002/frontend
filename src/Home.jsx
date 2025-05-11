@@ -1,14 +1,14 @@
 import * as React from "react";
 // import Header from "./home/Header";
 // import Navbar from "./home/Navbar";
-import MainVisual from "./home/MainVisual";
-import InfoSection from "./home/InfoSection";
-import AboutSection from "./home/AboutSection";
-import ServicesSection from "./home/ServicesSection";
+import MainVisual from "./pages/home/MainVisual";
+import InfoSection from "./pages/home/InfoSection";
+import AboutSection from "./pages/home/AboutSection";
+import ServicesSection from "./pages/home/ServicesSection";
 
-import DoctorsSection from "./home/DoctorsSection";
+import DoctorsSection from "./pages/home/DoctorsSection";
 /* import NewsSection from "./NewsSection"; */
-import Footer from "./home/Footer";
+import Footer from "./pages/home/Footer";
 
 function Home() {
   return (
